@@ -62,7 +62,7 @@ Please note that the given code is not included in this documentation comment. T
 
 ### KMK Library
 
- The KMK (Keyboard Mapping Kit) library is a powerful tool for creating custom keyboard mappings for custom made keyboards. It provides a set of functions and utilities that allow users to define and configure key mappings, layers, macros, and other keyboard functionalities.
+ The [KMK (Keyboard Mapping Kit) library](https://github.com/KMKfw/kmk_firmware) is a powerful tool for creating custom keyboard mappings for custom made keyboards. It provides a set of functions and utilities that allow users to define and configure key mappings, layers, macros, and other keyboard functionalities.
  
  Key Features:
  - Key Mapping: The library allows users to define custom key mappings, allowing for remapping of keys to different functions or actions.
