@@ -137,7 +137,7 @@ When you want to update the code on the device follow the following steps:
 5. Replace the code.py file on the flashdrive
 6. Disconnect the USB cable from your computer and reconnect.
 
-While in the process of trying to find the best combination of keys you might want to start from step 3. to have the flashdrive mount after the Pico rebooted.
+While in the process of trying to find the best combination of [keycodes](https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/keycodes.md) you might want to start from step 3. to have the flashdrive mount after the Pico rebooted.
 
 # Have fun!
 
