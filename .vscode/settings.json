@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./kmk/kmk_key",
+        "./kmk/hid_reports/nkro_key"
+    ]
+}
